@@ -1,0 +1,245 @@
+.form-container {
+    width: 600px;
+    margin: 50px auto;
+    padding: 110px 70px 70px 70px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+
+
+.form-group {
+    margin-bottom: 30px;
+}
+
+.title {
+    position: relative;
+    font-size: 30px;
+    top: -40px;
+    font-weight: 700;
+    text-align: center;
+}
+
+/* header */
+
+.header-top {
+    height: 130px;
+    display: flex;
+}
+
+.hover_dk_dn {
+    color: black;
+}
+
+.hover_dk_dn:hover,
+.hover_card:hover {
+    color: blue;
+    font-weight: 700;
+}
+
+.hover_nav:hover {
+    border-bottom: 3px solid #000;
+
+}
+
+#logo {
+    width: 250x;
+    height: 130px;
+    margin-left: 80px;
+}
+
+.hover_card {
+    color: black;
+}
+
+
+.box {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/* header */
+
+/* body */
+
+#main {
+    background-image: url(../images/backgroud);
+
+}
+
+
+/* body */
+
+/* footer */
+
+#logo_footer {
+    width: 150px;
+    height: 100px;
+    border-radius: 30px;
+}
+
+.icon_footer_contact {
+    color: #000;
+    cursor: pointer;
+}
+
+.icon_footer_contact:hover {
+    color: #fff;
+}
+
+.icon_footer_backTop {
+    color: #fff;
+    background-color: #000;
+    padding: 10px;
+    float: right;
+    opacity: 0.7;
+}
+
+/* footer */
+
+
+
+
+/* cart */
+.input-search {
+    height: 130px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#search {
+    padding-right: 200px;
+}
+
+.acc_dn-dk {
+    display: flex;
+    height: 130px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 80px;
+}
+
+.icon {
+    font-size: 30px;
+}
+
+.text-header {
+    font-size: 25px;
+}
+
+.text-header:hover {
+    font-style: italic;
+    font-weight: 700;
+}
+
+.icon-user {
+    margin-left: 30px;
+}
+
+#header-bot {
+    display: flex;
+    justify-content: space-around;
+}
+
+#header-bot a {
+    color: black;
+}
+
+.navbarHover {
+    padding: 10px;
+    font-size: 20px;
+}
+
+.navbarHover:hover {
+    font-style: italic;
+    font-weight: 700;
+
+
+}
+
+.text_forgotpass_signup {
+    display: flex;
+    margin-top: 40px;
+    justify-content: space-between;
+}
+
+.form-btn {
+    text-align: center;
+}
+
+
+.img-right-arrow,
+.img-left-arrow {
+    width: 20px;
+}
+
+/* cart */
+table,
+thead,
+tr,
+tbody,
+th,
+td {
+    text-align: center;
+    border: 1px solid #000;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.table td {
+    text-align: center;
+    vertical-align: center;
+}
+
+
+/* thông báo */
+.alert {
+    animation: autoHide 0s ease-in 2.5s forwards;
+}
+
+@keyframes autoHide {
+    to {
+        width: 0;
+        height: 0;
+        overflow: hidden;
+        display: none;
+    }
+}
+
+/* thông báo */
+
+/* Check out */
+.checkout_shadow {
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+/* Check out */
+
+/* 
+ * chat  
+ */
+/* .chat-box{
+    position: relative;
+    overflow: auto;
+    max-height: 600px;
+} */
+
+/* chat */
+#open_chat{
+    position: fixed;
+    bottom: 80px;
+    right: 20px;
+    padding: 15px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+#chat-popup{
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 0px;
+    z-index: 1;
+}

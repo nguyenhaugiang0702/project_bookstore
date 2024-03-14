@@ -1,0 +1,134 @@
+/* nav */
+.hover_nav_admin:hover {
+    border-bottom: 3px solid #fff;
+}
+
+.hover_nav_admin:active:focus {
+    border-bottom: 3px solid #fff;
+}
+
+/* nav */
+
+/* form */
+.form-container {
+    width: 800px;
+    margin: 50px auto;
+    padding: 110px 70px 70px 70px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+
+.form-group {
+    margin-bottom: 30px;
+}
+
+.title {
+    position: relative;
+    font-size: 30px;
+    top: -40px;
+    font-weight: 700;
+    text-align: center;
+}
+
+/* form */
+
+/* thông báo */
+.alert {
+    animation: autoHide 0s ease-in 2.5s forwards;
+}
+
+@keyframes autoHide {
+    to {
+        width: 0;
+        height: 0;
+        overflow: hidden;
+        display: none;
+    }
+}
+
+
+/* thông báo */
+
+/* media////////////////////////////////////////////////// */
+
+/*
+   * Sidebar
+   */
+
+
+.hover_sidebar:hover {
+    background-color: #0d6efd;
+    transition: 200ms ease-in-out;
+}
+
+.hover_sidebar:hover a>span {
+    color: #fff;
+}
+
+/*  */
+/*  */
+.rounded-full {
+    border-radius: 100%;
+}
+
+#wrapper {
+    overflow-x: hidden;
+}
+
+#sidebar-wrapper {
+    min-height: 100vh;
+    margin-left: -15rem;
+    -webkit-transition: margin 0.25s ease-out;
+    -moz-transition: margin 0.25s ease-out;
+    -o-transition: margin 0.25s ease-out;
+    transition: margin 0.25s ease-out;
+}
+
+#sidebar-wrapper .sidebar-heading {
+    padding: 0.875rem 1.25rem;
+    font-size: 1.2rem;
+}
+
+#sidebar-wrapper .list-group {
+    width: 15rem;
+}
+
+#page-content-wrapper {
+    min-width: 100vw;
+}
+
+#wrapper.toggled #sidebar-wrapper {
+    margin-left: 0;
+}
+
+#menu-toggle {
+    cursor: pointer;
+}
+
+.list-group-item {
+    border: none;
+    padding: 20px 30px;
+}
+
+@media (min-width: 768px) {
+    #sidebar-wrapper {
+        margin-left: 0;
+    }
+
+    #page-content-wrapper {
+        min-width: 0;
+        width: 100%;
+    }
+
+    #wrapper.toggled #sidebar-wrapper {
+        margin-left: -15rem;
+    }
+}
+
+/* chat */
+.list .dataTables_wrapper .dataTables_filter {
+    position: relative;
+    right: 150px;
+    top: 5px;
+    padding: 15px ;
+}
