@@ -5,6 +5,36 @@
 
 # Admin side interface and functionality
 
+## Login Page 
+![Login Page](./images_app/admin/login.png)
+
+## Home Page 
+![Home Page](./images_app/admin/home.png)
+
+## Products Management Page 
+![Products Management Page](./images_app/admin/products/products.png)
+
+## Customers Management Page 
+![Customers Management Page](./images_app/admin/user.png)
+
+## Add/Edit Product Page 
+![Add/Edit Product Page](./images_app/admin/products/add.png)
+
+## Products Category Management Page 
+![Products Category Management Page](./images_app/admin/category.png)
+
+## Orders Management Page 
+![Orders Management Page](./images_app/admin/orders.png)
+
+## Comment And Rate Management Page 
+![Comment And Rate Management Page](./images_app/admin/comemnt_rate.png)
+
+## Add Admin Page
+![Add Admin Page](./images_app/admin/addAdmin.png)
+
+## Chat With Customers Page
+![Chat With Customers Page](./images_app/admin/chat.png)
+
 
 # Client-side interface and functionality
 
