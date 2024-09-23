@@ -23,6 +23,12 @@
 ## Checkout Page 
 ![Checkout Page](./images_app/client/checkout.png)
 
+### Checkout with VnPay
+![Checkout with VnPay](./images_app/client/payment/vnpay.png)
+
+### Checkout with PayPal
+![Checkout with PayPal](./images_app/client/payment/paypal.png)
+
 ## Personal Account Page 
 ![Personal Account Page](./images_app/client/account/personal.png)
 
@@ -40,3 +46,6 @@
 
 ## Favorite Products Management Page 
 ![Favorite Products Management Page](./images_app/client/account/favorite.png)
+
+## Chat With Amin
+![Chat With Amin](./images_app/client/chat.png)
