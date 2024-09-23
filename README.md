@@ -91,5 +91,4 @@
 ![Register Page](./images_app/client/register.png)
 
 ## 3.14 Search Page
-#### After registering, an email will be sent with an authentication link.
 ![Search Page](./images_app/client/search.png)
