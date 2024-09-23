@@ -25,3 +25,12 @@
 
 ## Checkout Page 
 ![Checkout Page](./images_app/client/checkout.png)
+
+## Checkout Page 
+![Checkout Page](./images_app/client/checkout.png)
+
+## Personal Account Page 
+![Personal Account Page](./images_app/client/account/personal.png)
+
+## Change Password Page 
+![Change Password Page](./images_app/client/account/changePassword.png)
