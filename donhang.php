@@ -48,7 +48,7 @@ include "./component_u/nav_user.php";
                         <button class="nav-link" id="nav-contact-tab" data-bs-toggle="tab" data-bs-target="#nav-ych" type="button" role="tab" aria-controls="nav-contact" aria-selected="false">Yêu cầu hủy (<strong><?= $sql_checkStatus5->rowCount() ?></strong>)</button>
                         <button class="nav-link" id="nav-contact-tab" data-bs-toggle="tab" data-bs-target="#nav-dh" type="button" role="tab" aria-controls="nav-contact" aria-selected="false">Đã hủy (<strong><?= $sql_checkStatus6->rowCount() ?></strong>)</button>
                     </div>
-                </nav>
+                </nav>  
                 <!-- Chờ xác nhận đơn hàng -->
                 <div class="tab-content" id="nav-tabContent">
                     <div class="tab-pane fade show active border" id="nav-cxn" role="tabpanel" aria-labelledby="nav-home-tab">
