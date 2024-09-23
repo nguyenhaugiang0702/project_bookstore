@@ -42,6 +42,7 @@
 ![Home Page](./images_app/client/home.png)
 
 ## 3.2 Products Page 
+#### Here, customers can filter books by price, price increase/decrease, and by genre.
 ![Products Page](./images_app/client/products.png)
 
 ## 3.3 DetailProduct Page 
@@ -60,6 +61,7 @@
 ![Checkout with PayPal](./images_app/client/payment/paypal.png)
 
 ## 3.6 Personal Account Page 
+#### Here, customers can view personal information and change their avatar.
 ![Personal Account Page](./images_app/client/account/personal.png)
 
 ## 3.7 Change Password Page 
@@ -72,6 +74,7 @@
 ![Address Management Page](./images_app/client/account/address.png)
 
 ## 3.10 Orders Management Page 
+#### Here, customers can track order status and cancel the order if the status is "awaiting confirmation".
 ![Orders Management Page](./images_app/client/account/orders.png)
 
 ## 3.11 Favorite Products Management Page 
@@ -79,3 +82,14 @@
 
 ## 3.12 Chat With Amin
 ![Chat With Amin](./images_app/client/chat.png)
+
+## 3.13 Login Page
+![Login Page](./images_app/client/login.png)
+
+## 3.14 Register Page
+#### After registering, an email will be sent with an authentication link.
+![Register Page](./images_app/client/register.png)
+
+## 3.14 Search Page
+#### After registering, an email will be sent with an authentication link.
+![Search Page](./images_app/client/search.png)
