@@ -14,3 +14,6 @@
 ## Products Page 
 ![Products Page](./images_app/client/products.png)
 
+## DetailProduct Page 
+![DetailProduct Page](./images_app/client/detailProduct.png)
+
