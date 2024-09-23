@@ -20,9 +20,6 @@
 ## Cart Page 
 ![Cart Page](./images_app/client/cart.png)
 
-## Cart Page 
-![Cart Page](./images_app/client/cart.png)
-
 ## Checkout Page 
 ![Checkout Page](./images_app/client/checkout.png)
 
@@ -37,3 +34,9 @@
 
 ## Address Management Page 
 ![Address Management Page](./images_app/client/account/address.png)
+
+## Orders Management Page 
+![Orders Management Page](./images_app/client/account/orders.png)
+
+## Favorite Products Management Page 
+![Favorite Products Management Page](./images_app/client/account/favorite.png)
